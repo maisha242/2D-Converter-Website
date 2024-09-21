@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The “2D Converter” project aims to transform 2D artifacts and technical drawings into 3D mesh models. The 2D artifacts can take a variety of formats, including: Paper, Mylar, and Soft copy. To convert the existing 2D artifacts, a deep learning solution will be utilized. Alongside that, a GUI mainly used by engineers will be designed and implemented to ingest and visualize artifacts. The application will leverage several AWS technologies to develop a proof of concept of the 2D to 3D mesh generation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This project is currently being worked on by members: [Takumi Fukuzawa](https://github.com/tsf2802), [Maisha Iqbal](https://github.com/maisha242), [Sadman Islam](https://github.com/sui2435), [Glenn Todd](https://github.com/GlennT18), and [Robert Yamasaki](https://github.com/rhy2781). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Part of [Rochester Institute of Technology's Department of Software Engineering Senior Project](https://seniorproject.se.rit.edu/). 
