@@ -12,6 +12,26 @@ This project is currently being worked on by members: [Takumi Fukuzawa](https://
 #### Time Tracking
 [Time Tracking](https://docs.google.com/spreadsheets/d/1mLGyJPQzbilqKjdqkZweImZlNCkcgxo9/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
 
+#### Week 9
+[Weekly 4-Up](https://docs.google.com/document/d/1gzHLccuHDpygNO0QDO4hIioTFK_C-hKH/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
+
+[Weekly Agenda](https://docs.google.com/document/d/1K8KC0vaVYikau1lUriTXxJvjzD3kQgX35-bpUSK5-gQ/edit?usp=sharing)
+
+#### Week 8
+[Weekly 4-Up](https://docs.google.com/document/d/1kgJVn-zDo2L24xw5JI3CdDaS-fNV74dN/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
+
+[Weekly Agenda](https://docs.google.com/document/d/1k90PsQq98pSu79MV5ntsN5PXEcN8waE1tYMZy2j1M0M/edit?usp=sharing)
+
+#### Week 7
+[Weekly 4-Up](https://docs.google.com/document/d/1o8NxxOrMPg2AA0-cFgkM50QzEAAhvNlK/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
+
+[Weekly Agenda](https://docs.google.com/document/d/136atqRtRMWcostbKg2wkslE-Lcu8xNN975m8hCqcFGk/edit?usp=sharing)
+
+#### Week 6
+[Weekly 4-Up](https://docs.google.com/document/d/16aDY4sj6UJViSe88YKR7QqO6O8_LEU8w/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
+
+[Weekly Agenda](https://docs.google.com/document/d/1DnHeUxZF3oBQ6qbu7IZCOIhlkYUY2TUZ2KIc4TMRBss/edit?usp=sharing)
+
 #### Week 5
 [Weekly 4-Up](https://docs.google.com/document/d/1UVoeKDqdej1tJXUcCyZjxR0fmNmT5A5-/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
 
