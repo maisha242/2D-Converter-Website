@@ -12,6 +12,11 @@ This project is currently being worked on by members: [Takumi Fukuzawa](https://
 #### Time Tracking
 [Time Tracking](https://docs.google.com/spreadsheets/d/1mLGyJPQzbilqKjdqkZweImZlNCkcgxo9/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
 
+#### Week 10
+[Weekly 4-Up](https://docs.google.com/document/d/1IRuJ1C5BorForB3pOyrPvzS-m1EhHaDI/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
+
+[Weekly Agenda](https://docs.google.com/document/d/1Tw8s3O2exQALsKxO1L-FYCWCX1ASYp_fscPBYJB7SPw/edit?usp=sharing)
+
 #### Week 9
 [Weekly 4-Up](https://docs.google.com/document/d/1gzHLccuHDpygNO0QDO4hIioTFK_C-hKH/edit?usp=sharing&ouid=109959886126266700451&rtpof=true&sd=true)
 
