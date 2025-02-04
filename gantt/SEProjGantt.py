@@ -13,6 +13,7 @@ df = pd.DataFrame([
     dict(Task="REPO CLEANUP", Start='2025-3-9', Finish='2025-3-16', Category="Documentation"),
     dict(Task="Syntehtic Orthogonal Multiview render", Start='2025-1-13', Finish='2025-1-26', Category="ML Development"),
     dict(Task="Sketch A Shape: Train/Test eval graph", Start='2025-1-13', Finish='2025-1-26', Category="ML Development"),
+
     #dict(Task="Setup amplify hosting full stack serverless web", Start='2025-3-27', Finish='2025-4-10', Category="Cloud"),
     #dict(Task="AI integration into AWS", Start='2025-3-27', Finish='2025-4-10', Category="Cloud"),
     dict(Task="Spring Break", Start='2025-3-9', Finish='2025-3-16', Category="Break"),
@@ -25,8 +26,13 @@ df = pd.DataFrame([
     dict(Task="Dataloader", Start='2025-1-31', Finish='2025-2-21', Category="ML Development"),
     dict(Task="Training Loop", Start='2025-1-31', Finish='2025-2-21', Category="ML Development"),
     dict(Task="Swap Sample Model", Start='2025-2-28', Finish='2025-3-3', Category="ML Development"),
-    dict(Task="Testing Framework", Start='2025-3-4', Finish='2025-3-16', Category="ML Development"),
-    dict(Task="DSR3", Start='2025-2-28', Finish='2025-3-8', Category="Documentation"),
+    dict(Task="Establish Testing Framework", Start='2025-2-14', Finish='2025-2-28', Category="Testing"),
+    dict(Task="Unit Test refinement", Start='2025-2-21', Finish='2025-3-8', Category="Testing"),
+    dict(Task="Requirements Testing & Validation", Start='2025-2-14', Finish='2025-2-21', Category="Testing"),
+    dict(Task="Frontend+Integration Testing", Start='2025-3-16', Finish='2025-3-28', Category="Testing"),
+    dict(Task="Usability and Acceptance Testing", Start='2025-3-21', Finish='2025-4-04', Category="Testing"),
+
+    #dict(Task="DSR3", Start='2025-2-28', Finish='2025-3-8', Category="Documentation"),
     # New final project tasks
     dict(Task="Bug Fixes and Documentation", Start='2025-3-16', Finish='2025-4-3', Category="Documentation"),
     dict(Task="Project Poster", Start='2025-4-5', Finish='2025-4-11', Category="Documentation"),
@@ -51,7 +57,8 @@ fig = px.timeline(df, x_start="Start", x_end="Finish", y="Task",
                      "ML Development": "green",
                      "Frontend": "darkblue",
                      "Cloud": "royalblue",
-                     "Break": "red"
+                     "Break": "red",
+                     "Testing": "purple"
                  })
 fig.update_yaxes(autorange="reversed")
 
@@ -128,13 +135,7 @@ for date_str, label in sprints.items():
         showarrow=False,
         font=dict(color="blue", size=12)
     )
-fig.add_vrect(
-    x0="2025-02-21", x1="2025-02-28",
-    fillcolor="lightcoral", opacity=0.2,  # Light blue with low opacity
-    layer="below", line_width=0,
-    annotation_text="Scope Freeze Testing", annotation_position="top left",
-    annotation_font=dict(color="gray", size=10)
-)
+
 
 fig.add_vrect(
     x0="2025-03-16", x1="2025-04-04",
@@ -143,5 +144,9 @@ fig.add_vrect(
     annotation_text="Code Freeze Testing", annotation_position="top left",
     annotation_font=dict(color="gray", size=10)
 )
+
+# Add today's date line (green)
+
+
 # Show the plot
 fig.show()
